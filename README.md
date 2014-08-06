@@ -1,19 +1,19 @@
-# webapp
+# clojure-webapp
 
-FIXME
+Just me playing around with different ways of working on web apps with clojure.
 
 ## Prerequisites
 
-You will need [Leiningen][1] 1.7.0 or above installed.
+You will need [Leiningen] installed.
 
-[1]: https://github.com/technomancy/leiningen
+[Leiningen]: https://github.com/technomancy/leiningen
 
 ## Running
 
 To start a web server for the application, run:
 
-    lein ring server
+    lein ring server-headless
 
 ## License
 
-Copyright © 2014 FIXME
+Copyright © 2014 pseudomuto
