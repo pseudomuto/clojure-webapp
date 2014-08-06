@@ -1,5 +1,7 @@
 # clojure-webapp
 
+[![Build Status](https://travis-ci.org/pseudomuto/clojure-webapp.svg)](https://travis-ci.org/pseudomuto/clojure-webapp)
+
 Just me playing around with different ways of working on web apps with clojure.
 
 ## Prerequisites
